@@ -1,0 +1,3 @@
+[submodule "maven-jenkins-ci-demo"]
+	path = maven-jenkins-ci-demo
+	url = https://github.com/apigee/maven-jenkins-ci-demo
